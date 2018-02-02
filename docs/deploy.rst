@@ -491,7 +491,7 @@ call the according application.
 .. note::
 
    To test this example, simply add the following rules to
-   your `hosts` file:
+   your `hosts <https://en.wikipedia.org/wiki/Hosts_(file)>`_ file:
 
    .. code-block:: text
 
